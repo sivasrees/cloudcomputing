@@ -1,0 +1,233 @@
+1  sudo apt update
+    2  sudo apt upgrade
+    3  ifconfig
+    4  sudo apt install net-tools
+    5  gcc --version
+    6  sudo apt install gcc
+    7  sudo apt install g++
+    8  gcc --version
+    9  g++ version
+   10  g++ --version
+   11  java -version
+   12  java --version
+   13  sudo apt install openjdk-8-jre-headless
+   14  jaavc
+   15  sudo apt install openjdk-8-jdk-headless
+   16  javac
+   17  java -version
+   18  clear
+   19  gedit sample.c
+   20  gcc sample.c
+   21  ./a.out
+   22  gedit swap.c
+   23  gcc swap.c
+   24  ./a.out
+   25  gedit integer.cpp
+   26  g++ integer.cpp
+   27  ./a.out
+   28  gedit HellWorld.java
+   29  javac HelloWorld.java
+   30  ls
+   31  javac HellWorld.java
+   32  java HellWorld
+   33  java HellWorld.java
+   34  gedit GFG.java
+   35  javac GFG.java
+   36  java GFG.java
+   37  java GFG
+   38  javac HellWorld.java
+   39  java HellWorld
+   40  javac HelloWorld.java
+   41  java HelloWorld
+   42  gedit HelloWorld.java
+   43  javac HelloWorld.java
+   44  java Helloworld
+   45  java Helloworld.java
+   46  javac
+   47  java -version
+   48  javac GFG.java
+   49  java GFG
+   50  cd Downloads/
+   51  ls
+   52  javac DigitalClock.java
+   53  appletviewer DigitalClock
+   54  sudo apt install openjdk-8-jdk
+   55  javac DigitalClock.java
+   56  appletviewer DigitalClock
+   57  javac DigitalClock.java
+   58  cd Downloads/
+   59  javac DigitalClock.java
+   60  appletviewer DigitalClock
+   61  appletviewer DigitalClock.java
+   62  javac GraphicsDemo.java
+   63  appletviewer GraphicsDemo.java
+   64  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   65  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   66  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   67  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   68  ifconfig
+   69  su administrator
+   70  sudo bash
+   71  vim
+   72  sudo apt install vim   
+   73  touch test.txt
+   74  vim test.txt
+   75  vim
+   76  cat /etc/passwd
+   77  sedo chown username fil.txt
+   78  cat > file.txt
+   79  cd /
+   80  sedo useradd username
+   81  sudo useradd username
+   82  sudo userdel sivasree
+   83  sudo userdel -f sivasree
+   84  cat /etc/passwd
+   85  sudo useradd -f username
+   86  sudo userdel -f username
+   87  cat /etc/passwd
+   88  cd /
+   89  su sivasree
+   90  sudo passwd sivasree
+   91  cd Desktop
+   92  su admin
+   93  nano script.sh
+   94  ls
+   95  cd Desktop
+   96  ls
+   97  touch file.txt
+   98  nano script.sh
+   99  ./script,sh
+  100  ./script.sh
+  101  cshowd +x script.sh
+  102  chowd +x script.sh
+  103  chowd +x script1.sh
+  104  chmod +x script.sh
+  105  ./script.sh
+  106  chmod +x script.sh
+  107  ./script.sh
+  108  nano script.sh
+  109  ./script.sh
+  110  nano script.sh
+  111  ./script.sh/
+  112  ./script.sh
+  113  nano script1.sh
+  114  ./script1.sh
+  115  chmod +x script1.sh
+  116  ./script1.sh
+  117  nano script1.sh
+  118  ./script1.sh
+  119  nano script1.sh
+  120  nano script2.sh
+  121  ./script2.sh
+  122  chmod +x script2.sh
+  123  ./script2.sh
+  124  nano script2.sh
+  125  ./script2.sh
+  126  nano script2.sh
+  127  ./script1.sh
+  128  cd ..
+  129  ps
+  130  tp
+  131  top
+  132  nano script.sh
+  133  ./script.sh
+  134  chmod +x script.sh
+  135  ./script.sh
+  136  nano script.sh
+  137  ./script.sh
+  138  nano script.sh
+  139  nano script1.sh
+  140  ./script1.sh
+  141  chmod +x script1.sh
+  142  ./script1.sh
+  143  nano script1.sh
+  144  ./script1.sh
+  145  sudo get update
+  146  sudo apt update
+  147  sudo apt install git
+  148  git --vesion
+  149  git --version
+  150  cd /
+  151  ls
+  152  cd bin
+  153  cd root 
+  154  touch file.txt file1.txt
+  155  touch sivasree.txt
+  156  cd /
+  157  history
+  158  ls
+  159  cd home
+  160  ls 
+  161  cd /
+  162  ls
+  163  cd administartor
+  164  cd Desktop
+  165  cd /
+  166  ls
+  167  cd Desktop
+  168  cd administrator
+  169  cd /
+  170  ls
+  171  cd administrator
+  172  cd home
+  173  cd /
+  174  ls 
+  175  cd home
+  176  ls
+  177  cd adminstator
+  178  administrator
+  179  cd administrator
+  180  ls
+  181  cd scraped_data
+  182  ls
+  183  cd january
+  184  vim script2.sh
+  185  nano script2.sh
+  186  ./script2.sh
+  187  nano script2.sh
+  188  chmod +x script2.sh
+  189  nano script2.sh
+  190  ./script2.sh
+  191  cd january
+  192  cd January
+  193  ls
+  194  cat script2.sh
+  195  cd ..
+  196  cat script2.sh
+  197  cat file9.txt
+  198  cd ..
+  199  cd Desktop
+  200  cat file9.txt
+  201  grip -i "replace" file9.txt
+  202  grep -i "replace" file9.txt
+  203  cd scraped_data
+  204  cd ..
+  205  cd scraped_data
+  206  cd January
+  207  find / -Feburary
+  208  cd ..
+  209  grep -i "replace" file9.txt|wc -l
+  210  cd ..
+  211  grep -i "replace" file9.txt|wc -l
+  212  grep -i "replace" file9.txt
+  213  cd Desktop
+  214  grep -i "replace" file9.txt|wc -l
+  215  nano file2.txt
+  216  grep -e 
+  217  grep -e "hi" -e "shy" grep1.txt
+  218  grep -e "hi" -e "shy" file2.txt
+  219  touch file2.txt
+  220  grep -e "hi" -e "shy" file2.txt
+  221  cat file2.txt
+  222  cd scraped_data
+  223  cd ..
+  224  cd scraped_data
+  225  grep "ll" script1.sh
+  226  grep "ll" June
+  227  grep -e JUne
+  228  vim test.txt
+  229  grep -e "hii" -e "welcome"
+  230  grep -e "hii" -e "welcome" test.txt
+  231  cp -r April March
+  232  history
+
